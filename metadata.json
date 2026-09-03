@@ -1,0 +1,8 @@
+{
+  "name": "Remix Journal de Caisse \u0026 Calculateur de Gains",
+  "description": "Application simple de gestion commerciale et journal de caisse pour calculer les bénéfices quotidiens, sur 7 jours, 1 mois et 1 an.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
